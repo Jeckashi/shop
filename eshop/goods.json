@@ -1,0 +1,39 @@
+{
+	"425611" : {
+		"name" : "яблоки",
+		"cost" : 12,
+		"description" : "Вкусные сладкие",
+		"image" : "img/apple.png"
+	},
+	"425612" : {
+		"name" : "вишня",
+		"cost" : 16,
+		"description" : "Вкусная кислая",
+		"image" : "img/cherry.png"
+	},
+	"425613" : {
+		"name" : "виноград",
+		"cost" : 19.5,
+		"description" : "белый без косточки",
+		"image" : "img/grape.png"
+	},
+	"425616" : {
+		"name" : "Помидор",
+		"cost" : 8,
+		"description" : "Спелый, сочный",
+		"image" : "img/tomato.png"
+	},
+	"425614" : {
+		"name" : "Арбуз",
+		"cost" : 12,
+		"description" : "Сладкий, сочный",
+		"image" : "img/watermelon.png"
+	},
+	"425615" : {
+		"name" : "Клубника",
+		"cost" : 19,
+		"description" : "Сладкая, сочная",
+		"image" : "img/strawberry.png"
+	},	
+	
+}
